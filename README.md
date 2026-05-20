@@ -191,23 +191,25 @@ Real-time photo-sharing and chat platform featuring:
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=harin77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harin77&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180em"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harin77&theme=tokyonight" height="180em"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=harin77&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harin77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harin77&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 ---
 
 # ⚡ Developer Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=600&lines=Flutter+Developer;Linux+Enthusiast;Unity+Game+Developer;Open+Source+Learner;Always+Building+Something+Cool)
 ---
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/harin77/harin77/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/harin77/harin77/output/github-contribution-grid-snake.svg)
 
 ---
 
