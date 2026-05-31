@@ -105,38 +105,26 @@ class HarinK {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/harin77">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=harin77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Harin's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/harin77">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harin77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
-</div>
+![Harin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harin77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harin77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
 
 ---
 
 ## 🔥 Streak Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=harin77&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=harin77&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
 
 ---
 
 ## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harin77&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harin77&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 ---
 
 ## 🏆 Trophy Wall
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harin77&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
+![Trophies](https://github-profile-trophy.vercel.app/?username=harin77&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
 
 ---
 
@@ -179,20 +167,14 @@ class HarinK {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Stack | Highlights |
 |:---|:---|:---|
 | [📚 Smart Study Notes App](https://harin77portfolio.netlify.app/#projects) | Flutter · Firebase Auth · Firestore · AI | Full-stack notes app with auth, Firestore CRUD, and an integrated AI study assistant. Clean responsive Material UI. |
 | [💬 NICCO Chat App](https://harin77portfolio.netlify.app/#projects) | Flutter · Firestore · Firebase Storage | Real-time photo-sharing social app with image posting, likes, comments, and sub-second Firestore live sync. |
 
-</div>
-
 ---
 
 ## 🏅 Achievements & Certifications
-
-<div align="center">
 
 | 🏆 | Achievement | Details |
 |:---:|:---|:---|
@@ -202,19 +184,13 @@ class HarinK {
 | 🔥 | **Production Flutter Intern** | Selected at Zoro Tech for live app development · Jan 2026 |
 | 🌐 | **Personal Portfolio** | Live at [harin77portfolio.netlify.app](https://harin77portfolio.netlify.app/) |
 
-</div>
-
 ---
 
 ## 🎓 Education
 
-<div align="center">
-
 | Degree | Institution | Year | Status |
 |:---:|:---|:---:|:---:|
 | 📘 Diploma in Computer Engineering | N.M.S. Kamaraj Polytechnic College, Pazhavizhai | 2024 – 2026 | 🟢 Ongoing |
-
-</div>
 
 ---
 
@@ -232,15 +208,11 @@ class HarinK {
 
 ## 📬 Connect With Me
 
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-harin77portfolio.netlify.app-38BDAE?style=flat-square&logo=netlify&logoColor=white)](https://harin77portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Gmail-hin27708%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hin27708@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-k--harin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-harin-3a1a1030a/)
 [![GitHub](https://img.shields.io/badge/GitHub-harin77-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harin77)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%2079048%2036081-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917904836081)
-
-</div>
 
 ---
 
