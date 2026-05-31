@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harin%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%26%20Linux%20Power%20User%20%7C%20Building%20clean%20apps%2C%20one%20widget%20at%20a%20time&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harin+K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter+Developer+%7C+Linux+Power+User+%7C+Building+clean+apps%2C+one+widget+at+a+time&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+Dart+%2B+Firebase;Linux+Power+User+%7C+Arch+BTW+%F0%9F%90%A7;IT+Support+%7C+Hardware+%2B+Systems;Open+to+Work+%7C+Let%27s+Build+Something" alt="Typing SVG" />
